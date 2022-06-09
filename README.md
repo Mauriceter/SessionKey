@@ -6,5 +6,5 @@ Lorsque qu'un malware accède à internet pour récuperer des données par exemp
 
 ## Ressource :
 
-Les démarches sont détaillés dans le document [AnalyseCurl.md]() et les slides de la présentation sont accessible [ici]().
+Les démarches sont détaillés dans le document [AnalyseCurl.md](https://github.com/Mauriceter/SessionKey/blob/main/AnalyseCurl.md) et les slides de la présentation sont accessible [ici]().
 
